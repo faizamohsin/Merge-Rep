@@ -1,0 +1,6 @@
+user-agent: Googlebot 
+Allow:/useless.html
+
+
+Sitemap: http://std1398630.aptech-students.com/sitemap.xml
+
